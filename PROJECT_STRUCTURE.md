@@ -11,7 +11,6 @@ prediksi-harga-saham-xgboost/
 │   ├── README.md                    # Dokumentasi utama
 │   ├── CONTRIBUTING.md              # Panduan kontribusi
 │   ├── SETUP.md                     # Panduan setup
-│   ├── GITHUB_SETUP.md              # Panduan publish ke GitHub
 │   ├── PROJECT_STRUCTURE.md         # File ini
 │   └── LICENSE                      # Lisensi MIT
 │
