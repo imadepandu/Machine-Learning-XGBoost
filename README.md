@@ -225,7 +225,6 @@ Proyek ini menggunakan lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail l
 
 ## 🙏 Acknowledgments
 
-- Dataset: [Sumber dataset jika ada]
 - XGBoost: [https://xgboost.readthedocs.io/](https://xgboost.readthedocs.io/)
 - Scikit-learn: [https://scikit-learn.org/](https://scikit-learn.org/)
 
