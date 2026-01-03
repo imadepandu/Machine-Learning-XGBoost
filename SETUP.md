@@ -13,8 +13,8 @@ Panduan lengkap untuk setup dan menjalankan proyek ini.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/prediksi-harga-saham-xgboost.git
-cd prediksi-harga-saham-xgboost
+git clone https://github.com/imadepandu/Machine-Learning-XGBoost.git
+cd Machine-Learning-XGBoost
 ```
 
 ### 2. Buat Virtual Environment
